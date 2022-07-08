@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://localhost:7071",
   "dependencies": {
-    "@azure/storage-blob": "^12.9.0",
+    "@azure/storage-blob": "^12.11.0",
     "@fluentui/react": "^8.64.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
